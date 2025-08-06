@@ -1,0 +1,15 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# PyTorch related
+*.pt
+*.pth
+*.onnx
+
+# Dataset related
+data/
+*.tar.gz
