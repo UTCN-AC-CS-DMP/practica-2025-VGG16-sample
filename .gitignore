@@ -13,3 +13,15 @@ __pycache__/
 # Dataset related
 data/
 *.tar.gz
+
+# IDE Stuff
+.idea/
+.vs/
+.vscode/
+
+# CMake stuff
+build/
+cmake-build-*/
+
+# Models are 500 MB+ don't need to be in git
+assets/models/*
